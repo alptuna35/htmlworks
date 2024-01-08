@@ -1,0 +1,28 @@
+body    {
+    background-color: rgb(19, 94, 94);
+}
+
+p   {
+    color: beige;
+}
+
+h1  {
+    color: aquamarine;
+}
+
+.top-section   {
+    background: red;
+}
+
+.bottom-section {
+    background: black;
+}
+
+.intro  {
+    font-size: 21px;
+    color: black;
+}
+
+.info   {
+    color: rgb(219, 12, 12);
+}
